@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tristanbritton
 - 👀 I’m interested in python and task automation
-- 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate on an app I'm currently developing.
 - 📫 Email: tristanbritton01@gmail.com
 
 <!---
